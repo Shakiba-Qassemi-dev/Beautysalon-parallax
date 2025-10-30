@@ -1,0 +1,2 @@
+# Beautysalon-parallax
+Beautysalon-parallax
