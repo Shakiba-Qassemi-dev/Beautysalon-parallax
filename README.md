@@ -1,6 +1,6 @@
 # Beautysalon-parallax
 Beautysalon-parallax
-![Image]()
+![Image](https://github.com/user-attachments/assets/f72d5b0c-ba40-4b88-9a2b-826fd15e1e1e)
 - [Demo Project](https://beautysalon-parallax.vercel.app/)
 
 -👩‍💻 Developed by shakiba qassemi
